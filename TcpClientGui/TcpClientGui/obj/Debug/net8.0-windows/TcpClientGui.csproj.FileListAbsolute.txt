@@ -1,0 +1,16 @@
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\bin\Debug\net8.0-windows\TcpClientGui.exe
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\bin\Debug\net8.0-windows\TcpClientGui.deps.json
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\bin\Debug\net8.0-windows\TcpClientGui.runtimeconfig.json
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\bin\Debug\net8.0-windows\TcpClientGui.dll
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\bin\Debug\net8.0-windows\TcpClientGui.pdb
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.Form1.resources
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.dll
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\refint\TcpClientGui.dll
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.pdb
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\TcpClientGui.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\qwe\TcpClientGui\TcpClientGui\obj\Debug\net8.0-windows\ref\TcpClientGui.dll
